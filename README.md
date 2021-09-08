@@ -9,6 +9,7 @@ Adept at monitoring and maintaining frontend performance, troubleshooting and de
 
 **Need help with a project? You can mail me on ovajayi@gmail.com **
 
+----------------------------------------------------------------------------------------------------------------------------------
 <!--
 **oluwatoyinn/oluwatoyinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
